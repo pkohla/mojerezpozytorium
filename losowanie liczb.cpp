@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int czyszczenie_bufora ()
+int czyszczenie_bufora () // funkcja czyszczaca buor
 {
     cin.clear();
     cin.sync();
